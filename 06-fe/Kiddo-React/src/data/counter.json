@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "icon":"flaticon-free-delivery",
+        "title":"Miễn phí giao hàng",
+        "text":"Chúng tôi giao hàng miễn phí nội thành Hồ Chí Minh"
+    },
+    {
+        "id":2,
+        "icon":"flaticon-clock",
+        "title":"Hỗ trợ Online 24/7",
+        "text":"Nhân viên Online túc trực hỗ trợ giải đáp thắc mắc của khách hàng"
+    },
+    {
+        "id":3,
+        "icon":"flaticon-piggy-bank",
+        "title":"Tiết kiệm chi phí",
+        "text":"Chúng tôi luôn mang đến sản phẩm chất lượng với giá cả hợp lý thị trường"
+    },
+    {
+        "id":4,
+        "icon":"flaticon-credit-card",
+        "title":"Bảo mật thông tin",
+        "text":"Đảm bảo thông tin khách hàng tuyệt mật"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "id":1,
+        "image":"assets/img/banner/banner-3.png",
+        "imagetwo":"assets/img/banner/banner-2-3.png",
+        "imagethree":"assets/img/banner/banner-1.png",
+        "imagefour":"assets/img/banner/banner-4.png",
+        "imagefive":"assets/img/banner/banner-6.png",
+        "title":"Chào mừng bạn đến với<br><span class='hm-text-primary'>Kiddo - Thời trang trẻ em</span></br> ",
+        "text":" Nơi tuyệt vời để khám phá và mua sắm những bộ trang phục đáng yêu cho những thiên thần nhỏ của bạn! Tại đây, chúng tôi tự hào giới thiệu những mẫu thiết kế độc đáo và phong cách, mang đến không gian mua sắm trực tuyến an toàn và thuận tiện.",
+        "discountprice":89.00,
+        "price":99.00,
+        "videourl":"https://www.youtube.com/watch?v=KH1pcNUTa6U"
+    },
+    {
+        "id":2,
+        "image":"assets/img/banner/banner-3-2.png",
+        "imagetwo":"assets/img/banner/banner-2-2.jpg",
+        "imagethree":"assets/img/banner/banner-1-2.png",
+        "imagefour":"assets/img/banner/banner-4-1.png",
+        "imagefive":"assets/img/banner/banner-6-3.png",
+        "title":"Chào mừng bạn đến với<br><span class='hm-text-primary'>Kiddo - Thời trang trẻ em</span></br> ",
+        "text":" Nơi tuyệt vời để khám phá và mua sắm những bộ trang phục đáng yêu cho những thiên thần nhỏ của bạn! Tại đây, chúng tôi tự hào giới thiệu những mẫu thiết kế độc đáo và phong cách, mang đến không gian mua sắm trực tuyến an toàn và thuận tiện.",
+        "discountprice":89.00,
+        "price":99.00,
+        "videourl":"https://www.youtube.com/watch?v=KH1pcNUTa6U"
+    },
+    {
+        "id":3,
+        "image":"assets/img/banner/banner-3-3.png",
+        "imagetwo":"assets/img/banner/banner-2.png",
+        "imagethree":"assets/img/banner/banner-1.png",
+        "imagefour":"assets/img/banner/banner-4.png",
+        "imagefive":"assets/img/banner/banner-6.png",
+        "title":"Chào mừng bạn đến với<br><span class='hm-text-primary'>Kiddo - Thời trang trẻ em</span></br> ",
+        "text":" Nơi tuyệt vời để khám phá và mua sắm những bộ trang phục đáng yêu cho những thiên thần nhỏ của bạn! Tại đây, chúng tôi tự hào giới thiệu những mẫu thiết kế độc đáo và phong cách, mang đến không gian mua sắm trực tuyến an toàn và thuận tiện.",
+        "discountprice":89.00,
+        "price":99.00,
+        "videourl":"https://www.youtube.com/watch?v=KH1pcNUTa6U"
+    }
+]

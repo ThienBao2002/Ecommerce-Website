@@ -1,0 +1,12 @@
+[
+    {
+        "id":1,
+        "image":"assets/img/categories/cat-2.png",
+        "title":"Sản phẩm mới"
+    },
+    {
+        "id":2,
+        "image":"assets/img/categories/cat-1.png",
+        "title":"Xu hướng <br> thời trang <br> mới nhất"
+    }
+]

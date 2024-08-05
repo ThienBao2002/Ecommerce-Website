@@ -1,0 +1,150 @@
+{
+    "status": "success",
+    "data": {
+        "_id": "6600d9122220e66c2df8b976",
+        "name": "Webcam 720P Genius 1000Xdsadsa",
+        "name_slug": "webcam-720p-genius-1000xdsadsa",
+        "stock": 90,
+        "price": 300000,
+        "profit": 20,
+        "originalPrice": 360000,
+        "netProfit": 24000,
+        "minPrice": 243000,
+        "maxPrice": 567000,
+        "newPrice": 324000,
+        "specification": "Độ phân giải:480p\nGóc xoay camera:Xoay dọc 52 độ\nKết nối:USB 2.0\nHỗ trợ thiết bị:PC, Laptop\nTiện ích : Không có\nVị trí lắp đặt:Trong nhà\nĐàm thoại 2 chiều:Có\nAdapter kèm theo:Không kèm Adapter\nKích thước:Dài 7.8 cm - Rộng 3.3 cm - Cao 14 cm - Nặng 206 g\nThương hiệu của:Đài Loan\nSản xuất tại:Trung Quốc",
+        "description": "Webcam 480p A4Tech PK-710G Đen chính hãng, giá rẻ dành cho gia đình, văn phòng với độ phân giải HD, full HD, bảo hành chính hãng, giao hàng tận nơi tại GPM.",
+        "discount": 10,
+        "category": {
+            "_id": "6549d1d33b287de5aa8639a3",
+            "name": "Web Cam"
+        },
+        "brand": {
+            "_id": "6563e50d0c95d679a87461b6",
+            "name": "Genius"
+        },
+        "images": [
+            {
+                "url": "http://localhost:5000/public/uploads/02.jpg",
+                "name": "02",
+                "_id": "6600d9122220e66c2df8b977"
+            }
+        ],
+        "imagesVariant": [
+            {
+                "url": "http://localhost:5000/public/uploads/02.jpg",
+                "name": "02",
+                "_id": "6600d9122220e66c2df8b977"
+            },
+            {
+                "url": "http://localhost:5000/public/uploads/03.jpeg",
+                "name": "03",
+                "_id": "6600d9122220e66c2df8b978"
+            },
+            {
+                "url": "http://localhost:5000/public/uploads/04.jpg",
+                "name": "04",
+                "_id": "6600d9122220e66c2df8b979"
+            },
+            {
+                "url": "http://localhost:5000/public/uploads/0123.jpg",
+                "name": "0123",
+                "_id": "6600d9122220e66c2df8b97a"
+            }
+        ],
+        "variantClassCount":1,
+        "variant1": [
+            {
+                "_id": "6600d9122220e66c2df8b97b",
+                "name": "Không màu",
+                "imageName": "01",
+                "price": null,
+                "stock": null,
+                "variant2": [
+                    {
+                        "_id": "6600d9122220e66c2df8b97c",
+                        "name": "Chỉ có Camera",
+                        "price": 225000,
+                        "stock": 15,
+                        "netProfit": 18000,
+                        "newVariant2Price": 243000,
+                        "originalPrice": 270000,
+                        "__v": 0
+                    },
+                    {
+                        "_id": "6600d9122220e66c2df8b97f",
+                        "name": "Camera + 64GB",
+                        "price": 275000,
+                        "stock": 15,
+                        "netProfit": 22000,
+                        "newVariant2Price": 297000,
+                        "originalPrice": 330000,
+                        "__v": 0
+                    },
+                    {
+                        "_id": "6600d9122220e66c2df8b982",
+                        "name": "Camera + 128GB",
+                        "price": 325000,
+                        "stock": 15,
+                        "netProfit": 26000,
+                        "newVariant2Price": 351000,
+                        "originalPrice": 390000,
+                        "__v": 0
+                    }
+                ],
+                "__v": 0
+            },
+            {
+                "_id": "6600d9122220e66c2df8b986",
+                "name": "Full Color",
+                "imageName": "02",
+                "price": null,
+                "stock": null,
+                "variant2": [
+                    {
+                        "_id": "6600d9122220e66c2df8b987",
+                        "name": "Chỉ có Camera",
+                        "price": 425000,
+                        "stock": 15,
+                        "netProfit": 34000,
+                        "newVariant2Price": 459000,
+                        "originalPrice": 510000,
+                        "__v": 0
+                    },
+                    {
+                        "_id": "6600d9122220e66c2df8b98a",
+                        "name": "Camera + 64GB",
+                        "price": 475000,
+                        "stock": 15,
+                        "netProfit": 38000,
+                        "newVariant2Price": 513000,
+                        "originalPrice": 570000,
+                        "__v": 0
+                    },
+                    {
+                        "_id": "6600d9122220e66c2df8b98d",
+                        "name": "Camera + 128GB",
+                        "price": 525000,
+                        "stock": 15,
+                        "netProfit": 42000,
+                        "newVariant2Price": 567000,
+                        "originalPrice": 630000,
+                        "__v": 0
+                    }
+                ],
+                "__v": 0
+            }
+        ],
+        "variantName1": "Màu sắc",
+        "variantName2": "Loại Camera",
+
+        "isPublish": true,
+        "orders": [],
+        "ordersCount": 0,
+        "publishedDate": "Mar 25, Mon 08:53:22",
+        "updatedAt": "Mar 25, Mon 08:53:22",
+        "__v": 0,
+        "ordersCountVirtual": 0,
+        "id": "6600d9122220e66c2df8b976"
+    }
+}

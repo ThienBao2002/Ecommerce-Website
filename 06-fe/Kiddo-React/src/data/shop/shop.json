@@ -1,0 +1,1130 @@
+[
+    {
+        "id": 1,
+        "title": "Bút màu",
+        "image": [
+            "assets/img/products/pr_08.png",
+            "assets/img/products/pr_11.png",
+            "assets/img/products/pr_09.png",
+            "assets/img/products/pr_10.png"
+        ],
+        "peakimg": "assets/img/other/sneakpeak-1.jpg",
+        "price": 133,
+        "discount": "",
+        "stock": true,
+        "featured": true,
+        "rating": 4,
+        "colors": [
+            {
+                "title": "Đỏ",
+                "color": "red"
+            },
+            {
+                "title": "Lục lam",
+                "color": "cyan"
+            },
+            {
+                "title": "Xanh lá",
+                "color": "green"
+            }
+        ],
+        "size": [
+            "24",
+            "26",
+            "28",
+            "30"
+        ],
+        "addinfo": [
+            {
+                "title": "Tên thương hiệu",
+                "text": "Dummy Brand Name"
+            },
+            {
+                "title": "Mã sản phẩm",
+                "text": "TDK1238"
+            },
+            {
+                "title": "Kích thước",
+                "text": "29er *15.5inch, 29er*17.5inches"
+            },
+            {
+                "title": "Khối lượng",
+                "text": "1000g +- 50g"
+            },
+            {
+                "title": "Chất liệu",
+                "text": "100% lụa"
+            }
+        ],
+        "category": [
+            1,
+            2,
+            3
+        ],
+        "tags": [
+            1,
+            2,
+            3
+        ],
+        "sku": "#2433",
+        "shorttext": "Bút màu cho học sinh và nghệ sĩ sáng tạo là công cụ hoàn hảo để thể hiện sự sáng tạo và thể hiện màu sắc.",
+        "htmltext": "<h3> Đặc điểm nổi bật </h3><p>Bảng màu đa dạng: Bộ bút này đi kèm với một bảng màu đa dạng, bao gồm các màu sắc cơ bản và màu sắc đặc biệt, giúp bạn thể hiện mọi ý tưởng sáng tạo của mình.</p><p>Dễ sử dụng: Bút màu có thiết kế dễ sử dụng và phù hợp cho cả trẻ em và người lớn. Đầu bút mịn màng giúp bạn tạo ra các chi tiết tinh tế.</p><p>Chất lượng vượt trội: Sản phẩm được làm từ chất liệu cao cấp, không gây bị phai màu và có độ bền cao. Bạn có thể tin tưởng rằng tác phẩm của mình sẽ được bảo tồn lâu dài.</p><p>Thích hợp cho nhiều ứng dụng: Bút màu này phù hợp cho việc vẽ tranh, tô màu sách, làm việc sáng tạo trong học tập và nghệ thuật.</p><h3>Lợi ích:</h3><p>Tạo ra các tác phẩm nghệ thuật tuyệt đẹp.</p><p>Khám phá thế giới màu sắc và thể hiện sự sáng tạo.</p><p>Phù hợp cho cả học sinh và nghệ sĩ.</p><p>Độ bền cao và màu sắc không phai.</p><h3>Bộ sản phẩm bao gồm:</h3><p>24 bút màu với các màu sắc đa dạng.</p>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "rating": 5,
+                "comment": "Tôi đã mua bộ bút màu này cho con gái của mình, và cô ấy yêu thích chúng đến không tưởng. Các màu sắc đa dạng giúp cô ấy thể hiện sự sáng tạo và tạo ra những bức tranh tuyệt đẹp. Bút màu dễ sử dụng, và chất lượng làm tôi cảm thấy yên tâm về việc cô gái sẽ tận hưởng sự sáng tạo một cách an toàn."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "rating": 4,
+                "comment": "Bút màu này thật tuyệt! Tôi dùng chúng cho việc vẽ tranh và tô màu sách. Các màu rất sáng và mịn, giúp tôi tạo ra các chi tiết tinh tế trong tranh. Bộ bút này đã giúp tôi phát triển kỹ năng nghệ thuật của mình. Tôi không thể tin được giá cả tốt như vậy cho chất lượng này!"
+            },
+            {
+                "user": [
+                    3
+                ],
+                "rating": 4,
+                "comment": "Tôi thích bộ bút màu này rất nhiều! Các màu sắc tươi sáng và dễ sử dụng. Tôi đã tô màu hình ảnh yêu thích của mình và vẽ nhiều bức tranh đẹp. Bút màu không lem và có thể sử dụng lâu dài. Tôi rất hạnh phúc với sản phẩm này!"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Webby Foldable Fashion",
+        "image": [
+            "assets/img/products/pr_11.png",
+            "assets/img/products/pr_09.png",
+            "assets/img/products/pr_10.png",
+            "assets/img/products/pr_08.png"
+        ],
+        "peakimg": "assets/img/other/sneakpeak-2.jpg",
+        "price": 144,
+        "discount": 10,
+        "stock": true,
+        "featured": true,
+        "rating": 4,
+        "colors": [
+            {
+                "title": "Đỏ",
+                "color": "red"
+            },
+            {
+                "title": "Lục lam",
+                "color": "cyan"
+            },
+            {
+                "title": "Xanh lá",
+                "color": "green"
+            }
+        ],
+        "size": [
+            "24",
+            "26",
+            "28",
+            "30"
+        ],
+        "addinfo": [
+            {
+                "title": "Tên thương hiệu",
+                "text": "Dummy Brand Name"
+            },
+            {
+                "title": "Mã sản phẩm",
+                "text": "TDK1238"
+            },
+            {
+                "title": "Kích thước",
+                "text": "29er *15.5inch, 29er*17.5inches"
+            },
+            {
+                "title": "Khối lượng",
+                "text": "1000g +- 50g"
+            },
+            {
+                "title": "Chất liệu",
+                "text": "100% lụa"
+            }
+        ],
+        "category": [
+            4,
+            5,
+            6
+        ],
+        "tags": [
+            4,
+            5,
+            6
+        ],
+        "sku": "#2433",
+        "shorttext": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "htmltext": "<p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "rating": 5,
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "rating": 4,
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+            },
+            {
+                "user": [
+                    3
+                ],
+                "rating": 4,
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Musical Van",
+        "image": [
+            "assets/img/products/pr_09.png",
+            "assets/img/products/pr_10.png",
+            "assets/img/products/pr_08.png",
+            "assets/img/products/pr_11.png"
+        ],
+        "peakimg": "assets/img/other/sneakpeak-3.jpg",
+        "price": 134,
+        "discount": "",
+        "stock": true,
+        "featured": false,
+        "rating": 5,
+        "colors": [
+            {
+                "title": "Đỏ",
+                "color": "red"
+            },
+            {
+                "title": "Lục lam",
+                "color": "cyan"
+            },
+            {
+                "title": "Xanh lá",
+                "color": "green"
+            }
+        ],
+        "size": [
+            "24",
+            "26",
+            "28",
+            "30"
+        ],
+        "addinfo": [
+            {
+                "title": "Tên thương hiệu",
+                "text": "Dummy Brand Name"
+            },
+            {
+                "title": "Mã sản phẩm",
+                "text": "TDK1238"
+            },
+            {
+                "title": "Kích thước",
+                "text": "29er *15.5inch, 29er*17.5inches"
+            },
+            {
+                "title": "Khối lượng",
+                "text": "1000g +- 50g"
+            },
+            {
+                "title": "Chất liệu",
+                "text": "100% lụa"
+            }
+        ],
+        "category": [
+            1,
+            7,
+            8
+        ],
+        "tags": [
+            1,
+            7,
+            8
+        ],
+        "sku": "#2433",
+        "shorttext": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "htmltext": "<p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "rating": 5,
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "rating": 4,
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+            },
+            {
+                "user": [
+                    3
+                ],
+                "rating": 4,
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Mini Play Table",
+        "image": [
+            "assets/img/products/pr_10.png",
+            "assets/img/products/pr_08.png",
+            "assets/img/products/pr_11.png",
+            "assets/img/products/pr_09.png"
+        ],
+        "peakimg": "assets/img/other/sneakpeak-1.jpg",
+        "price": 114,
+        "discount": "",
+        "stock": true,
+        "featured": false,
+        "rating": 4,
+        "colors": [
+            {
+                "title": "Đỏ",
+                "color": "red"
+            },
+            {
+                "title": "Lục lam",
+                "color": "cyan"
+            },
+            {
+                "title": "Xanh lá",
+                "color": "green"
+            }
+        ],
+        "size": [
+            "24",
+            "26",
+            "28",
+            "30"
+        ],
+        "addinfo": [
+            {
+                "title": "Tên thương hiệu",
+                "text": "Dummy Brand Name"
+            },
+            {
+                "title": "Mã sản phẩm",
+                "text": "TDK1238"
+            },
+            {
+                "title": "Kích thước",
+                "text": "29er *15.5inch, 29er*17.5inches"
+            },
+            {
+                "title": "Khối lượng",
+                "text": "1000g +- 50g"
+            },
+            {
+                "title": "Chất liệu",
+                "text": "100% lụa"
+            }
+        ],
+        "category": [
+            2,
+            3,
+            4
+        ],
+        "tags": [
+            2,
+            3,
+            4
+        ],
+        "sku": "#2433",
+        "shorttext": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "htmltext": "<p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "rating": 5,
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "rating": 4,
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+            },
+            {
+                "user": [
+                    3
+                ],
+                "rating": 4,
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Royals Color",
+        "image": [
+            "assets/img/products/pr_08.png",
+            "assets/img/products/pr_11.png",
+            "assets/img/products/pr_09.png",
+            "assets/img/products/pr_10.png"
+        ],
+        "peakimg": "assets/img/other/sneakpeak-2.jpg",
+        "price": 125,
+        "rating": 5,
+        "discount": "",
+        "stock": true,
+        "featured": true,
+        "colors": [
+            {
+                "title": "Đỏ",
+                "color": "red"
+            },
+            {
+                "title": "Lục lam",
+                "color": "cyan"
+            },
+            {
+                "title": "Xanh lá",
+                "color": "green"
+            }
+        ],
+        "size": [
+            "24",
+            "26",
+            "28",
+            "30"
+        ],
+        "addinfo": [
+            {
+                "title": "Tên thương hiệu",
+                "text": "Dummy Brand Name"
+            },
+            {
+                "title": "Mã sản phẩm",
+                "text": "TDK1238"
+            },
+            {
+                "title": "Kích thước",
+                "text": "29er *15.5inch, 29er*17.5inches"
+            },
+            {
+                "title": "Khối lượng",
+                "text": "1000g +- 50g"
+            },
+            {
+                "title": "Chất liệu",
+                "text": "100% lụa"
+            }
+        ],
+        "category": [
+            5,
+            6,
+            7
+        ],
+        "tags": [
+            5,
+            6,
+            7
+        ],
+        "sku": "#2433",
+        "shorttext": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "htmltext": "<p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "rating": 5,
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "rating": 4,
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+            },
+            {
+                "user": [
+                    3
+                ],
+                "rating": 4,
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Webby Nara Fashion",
+        "image": [
+            "assets/img/products/pr_11.png",
+            "assets/img/products/pr_09.png",
+            "assets/img/products/pr_10.png",
+            "assets/img/products/pr_08.png"
+        ],
+        "peakimg": "assets/img/other/sneakpeak-3.jpg",
+        "price": 134,
+        "discount": 10,
+        "rating": 5,
+        "stock": true,
+        "featured": true,
+        "colors": [
+            {
+                "title": "Đỏ",
+                "color": "red"
+            },
+            {
+                "title": "Lục lam",
+                "color": "cyan"
+            },
+            {
+                "title": "Xanh lá",
+                "color": "green"
+            }
+        ],
+        "size": [
+            "24",
+            "26",
+            "28",
+            "30"
+        ],
+        "addinfo": [
+            {
+                "title": "Tên thương hiệu",
+                "text": "Dummy Brand Name"
+            },
+            {
+                "title": "Mã sản phẩm",
+                "text": "TDK1238"
+            },
+            {
+                "title": "Kích thước",
+                "text": "29er *15.5inch, 29er*17.5inches"
+            },
+            {
+                "title": "Khối lượng",
+                "text": "1000g +- 50g"
+            },
+            {
+                "title": "Chất liệu",
+                "text": "100% lụa"
+            }
+        ],
+        "category": [
+            1,
+            2,
+            8
+        ],
+        "tags": [
+            1,
+            2,
+            8
+        ],
+        "sku": "#2433",
+        "shorttext": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "htmltext": "<p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "rating": 5,
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "rating": 4,
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+            },
+            {
+                "user": [
+                    3
+                ],
+                "rating": 4,
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Fashion Shine Yellow",
+        "image": [
+            "assets/img/products/pr_09.png",
+            "assets/img/products/pr_10.png",
+            "assets/img/products/pr_08.png",
+            "assets/img/products/pr_11.png"
+        ],
+        "peakimg": "assets/img/other/sneakpeak-1.jpg",
+        "price": 149,
+        "discount": "",
+        "stock": true,
+        "featured": false,
+        "rating": 4,
+        "colors": [
+            {
+                "title": "Đỏ",
+                "color": "red"
+            },
+            {
+                "title": "Lục lam",
+                "color": "cyan"
+            },
+            {
+                "title": "Xanh lá",
+                "color": "green"
+            }
+        ],
+        "size": [
+            "24",
+            "26",
+            "28",
+            "30"
+        ],
+        "addinfo": [
+            {
+                "title": "Tên thương hiệu",
+                "text": "Dummy Brand Name"
+            },
+            {
+                "title": "Mã sản phẩm",
+                "text": "TDK1238"
+            },
+            {
+                "title": "Kích thước",
+                "text": "29er *15.5inch, 29er*17.5inches"
+            },
+            {
+                "title": "Khối lượng",
+                "text": "1000g +- 50g"
+            },
+            {
+                "title": "Chất liệu",
+                "text": "100% lụa"
+            }
+        ],
+        "category": [
+            3,
+            4,
+            5
+        ],
+        "tags": [
+            3,
+            4,
+            5
+        ],
+        "sku": "#2433",
+        "shorttext": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "htmltext": "<p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "rating": 5,
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "rating": 4,
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+            },
+            {
+                "user": [
+                    3
+                ],
+                "rating": 4,
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Play Set Table",
+        "image": [
+            "assets/img/products/pr_10.png",
+            "assets/img/products/pr_08.png",
+            "assets/img/products/pr_11.png",
+            "assets/img/products/pr_09.png"
+        ],
+        "peakimg": "assets/img/other/sneakpeak-2.jpg",
+        "price": 99,
+        "discount": "",
+        "stock": true,
+        "featured": false,
+        "rating": 4,
+        "colors": [
+            {
+                "title": "Đỏ",
+                "color": "red"
+            },
+            {
+                "title": "Lục lam",
+                "color": "cyan"
+            },
+            {
+                "title": "Xanh lá",
+                "color": "green"
+            }
+        ],
+        "size": [
+            "24",
+            "26",
+            "28",
+            "30"
+        ],
+        "addinfo": [
+            {
+                "title": "Brand Name",
+                "text": "Dummy Brand Name"
+            },
+            {
+                "title": "Model Number",
+                "text": "TDK1238"
+            },
+            {
+                "title": "Size",
+                "text": "29er *15.5inch, 29er*17.5inches"
+            },
+            {
+                "title": "Weight",
+                "text": "1000g +- 50g"
+            },
+            {
+                "title": "Material",
+                "text": "100% Silk"
+            }
+        ],
+        "category": [
+            6,
+            7,
+            8
+        ],
+        "tags": [
+            6,
+            7,
+            8
+        ],
+        "sku": "#2433",
+        "shorttext": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "htmltext": "<p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "rating": 5,
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "rating": 4,
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+            },
+            {
+                "user": [
+                    3
+                ],
+                "rating": 4,
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Color Hub",
+        "image": [
+            "assets/img/products/pr_08.png",
+            "assets/img/products/pr_11.png",
+            "assets/img/products/pr_09.png",
+            "assets/img/products/pr_10.png"
+        ],
+        "peakimg": "assets/img/other/sneakpeak-3.jpg",
+        "price": 49,
+        "discount": "",
+        "stock": true,
+        "featured": true,
+        "rating": 3,
+        "colors": [
+            {
+                "title": "Đỏ",
+                "color": "red"
+            },
+            {
+                "title": "Lục lam",
+                "color": "cyan"
+            },
+            {
+                "title": "Xanh lá",
+                "color": "green"
+            }
+        ],
+        "size": [
+            "24",
+            "26",
+            "28",
+            "30"
+        ],
+        "addinfo": [
+            {
+                "title": "Brand Name",
+                "text": "Dummy Brand Name"
+            },
+            {
+                "title": "Model Number",
+                "text": "TDK1238"
+            },
+            {
+                "title": "Size",
+                "text": "29er *15.5inch, 29er*17.5inches"
+            },
+            {
+                "title": "Weight",
+                "text": "1000g +- 50g"
+            },
+            {
+                "title": "Material",
+                "text": "100% Silk"
+            }
+        ],
+        "category": [
+            1,
+            2,
+            3
+        ],
+        "tags": [
+            1,
+            2,
+            3
+        ],
+        "sku": "#2433",
+        "shorttext": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "htmltext": "<p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "rating": 5,
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "rating": 4,
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+            },
+            {
+                "user": [
+                    3
+                ],
+                "rating": 4,
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Foldable Skillofun",
+        "image": [
+            "assets/img/products/pr_11.png",
+            "assets/img/products/pr_09.png",
+            "assets/img/products/pr_10.png",
+            "assets/img/products/pr_08.png"
+        ],
+        "peakimg": "assets/img/other/sneakpeak-1.jpg",
+        "price": 89,
+        "discount": 10,
+        "stock": true,
+        "featured": true,
+        "rating": 3,
+        "colors": [
+            {
+                "title": "Đỏ",
+                "color": "red"
+            },
+            {
+                "title": "Lục lam",
+                "color": "cyan"
+            },
+            {
+                "title": "Xanh lá",
+                "color": "green"
+            }
+        ],
+        "size": [
+            "24",
+            "26",
+            "28",
+            "30"
+        ],
+        "addinfo": [
+            {
+                "title": "Brand Name",
+                "text": "Dummy Brand Name"
+            },
+            {
+                "title": "Model Number",
+                "text": "TDK1238"
+            },
+            {
+                "title": "Size",
+                "text": "29er *15.5inch, 29er*17.5inches"
+            },
+            {
+                "title": "Weight",
+                "text": "1000g +- 50g"
+            },
+            {
+                "title": "Material",
+                "text": "100% Silk"
+            }
+        ],
+        "category": [
+            4,
+            5,
+            6
+        ],
+        "tags": [
+            4,
+            5,
+            6
+        ],
+        "sku": "#2433",
+        "shorttext": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "htmltext": "<p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "rating": 5,
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "rating": 4,
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+            },
+            {
+                "user": [
+                    3
+                ],
+                "rating": 4,
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Music Bus",
+        "image": [
+            "assets/img/products/pr_09.png",
+            "assets/img/products/pr_10.png",
+            "assets/img/products/pr_08.png",
+            "assets/img/products/pr_11.png"
+        ],
+        "peakimg": "assets/img/other/sneakpeak-2.jpg",
+        "price": 90,
+        "discount": "",
+        "stock": true,
+        "featured": false,
+        "rating": 4,
+        "colors": [
+            {
+                "title": "Đỏ",
+                "color": "red"
+            },
+            {
+                "title": "Lục lam",
+                "color": "cyan"
+            },
+            {
+                "title": "Xanh lá",
+                "color": "green"
+            }
+        ],
+        "size": [
+            "24",
+            "26",
+            "28",
+            "30"
+        ],
+        "addinfo": [
+            {
+                "title": "Brand Name",
+                "text": "Dummy Brand Name"
+            },
+            {
+                "title": "Model Number",
+                "text": "TDK1238"
+            },
+            {
+                "title": "Size",
+                "text": "29er *15.5inch, 29er*17.5inches"
+            },
+            {
+                "title": "Weight",
+                "text": "1000g +- 50g"
+            },
+            {
+                "title": "Material",
+                "text": "100% Silk"
+            }
+        ],
+        "category": [
+            1,
+            7,
+            8
+        ],
+        "tags": [
+            1,
+            7,
+            8
+        ],
+        "sku": "#2433",
+        "shorttext": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "htmltext": "<p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "rating": 5,
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "rating": 4,
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+            },
+            {
+                "user": [
+                    3
+                ],
+                "rating": 4,
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Inflatble Table",
+        "image": [
+            "assets/img/products/pr_10.png",
+            "assets/img/products/pr_08.png",
+            "assets/img/products/pr_11.png",
+            "assets/img/products/pr_09.png"
+        ],
+        "peakimg": "assets/img/other/sneakpeak-3.jpg",
+        "price": 139,
+        "discount": "",
+        "stock": true,
+        "featured": false,
+        "rating": 3,
+        "colors": [
+            {
+                "title": "Đỏ",
+                "color": "red"
+            },
+            {
+                "title": "Lục lam",
+                "color": "cyan"
+            },
+            {
+                "title": "Xanh lá",
+                "color": "green"
+            }
+        ],
+        "size": [
+            "24",
+            "26",
+            "28",
+            "30"
+        ],
+        "addinfo": [
+            {
+                "title": "Brand Name",
+                "text": "Dummy Brand Name"
+            },
+            {
+                "title": "Model Number",
+                "text": "TDK1238"
+            },
+            {
+                "title": "Size",
+                "text": "29er *15.5inch, 29er*17.5inches"
+            },
+            {
+                "title": "Weight",
+                "text": "1000g +- 50g"
+            },
+            {
+                "title": "Material",
+                "text": "100% Silk"
+            }
+        ],
+        "category": [
+            2,
+            3,
+            4
+        ],
+        "tags": [
+            2,
+            3,
+            4
+        ],
+        "sku": "#2433",
+        "shorttext": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "htmltext": "<p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "rating": 5,
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "rating": 4,
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+            },
+            {
+                "user": [
+                    3
+                ],
+                "rating": 4,
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+            }
+        ]
+    }
+]

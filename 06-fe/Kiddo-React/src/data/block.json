@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "image":"assets/img/categories/cat-5.jpg",
+        "title":"Talent Search Methods"
+    },
+    {
+        "id":2,
+        "image":"assets/img/categories/cat-3.jpg",
+        "title":"Reliant Individuals"
+    },
+    {
+        "id":3,
+        "image":"assets/img/categories/cat-4.jpg",
+        "title":"Value Based Education"
+    }
+]

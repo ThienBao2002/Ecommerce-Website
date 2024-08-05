@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "image":"assets/img/banner/banner-res-6.jpg",
+        "title":"Kids Fashionses"
+    },
+    {
+        "id":2,
+        "image":"assets/img/banner/banner-res-7.jpg",
+        "title":"Tank Tops"
+    },
+    {
+        "id":3,
+        "image":"assets/img/banner/banner-res-8.jpg",
+        "title":"Suits"
+    }
+]

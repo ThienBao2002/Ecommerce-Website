@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "name":"Sophia Smith",
+        "post":"Sales Manager",
+        "image":"assets/img/people/people_01.png"
+    },
+    {
+        "id":2,
+        "name":"Isabella Johnson",
+        "post":"Customer",
+        "image":"assets/img/people/people_02.png"
+    },
+    {
+        "id":3,
+        "name":"Emma Williams",
+        "post":"Quality Manager",
+        "image":"assets/img/people/people_03.png"
+    }
+]

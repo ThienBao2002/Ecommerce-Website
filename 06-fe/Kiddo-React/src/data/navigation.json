@@ -1,0 +1,286 @@
+[
+    {
+        "id": 1,
+        "linkText": "Trang chủ",
+        "child": false,
+        "link": "/",
+        "submenu": [
+            {
+                "id": 1.1,
+                "link": "/",
+                "linkText": "Home v1"
+            },
+            {
+                "id": 1.2,
+                "link": "/home-v2",
+                "linkText": "Home v2"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "link": "/shop-grid-left",
+        "linkText": "Tất cả sản phẩm"
+    },
+    {
+        "id": 3,
+        "linkText": "Pages",
+        "child": true,
+        "submenu": [
+            {
+                "id": 3.1,
+                "link": "/contact",
+                "linkText": "Contact Us"
+            },
+            {
+                "id": 3.2,
+                "link": "/login",
+                "linkText": "Đăng nhập"
+            },
+            {
+                "id": 3.3,
+                "link": "/faqs",
+                "linkText": "FAQ's"
+            },
+            {
+                "id": 3.4,
+                "link": "/about",
+                "linkText": "Về chúng tôi"
+            },
+            {
+                "id": 3.5,
+                "link": "/register",
+                "linkText": "Đăng ký"
+            },
+            {
+                "id": 3.6,
+                "link": "/error-404",
+                "linkText": "404 Page"
+            },
+            {
+                "id": 3.7,
+                "link": "/coming-soon",
+                "linkText": "Coming Soon"
+            },
+            {
+                "id": 3.8,
+                "link": "/wishlist",
+                "linkText": "Wishlist"
+            },
+            {
+                "id": 3.9,
+                "link": "/cart",
+                "linkText": "Cart"
+            },
+            {
+                "id": 3.10,
+                "link": "/checkout",
+                "linkText": "Checkout"
+            },
+            {
+                "id": 3.10,
+                "link": "/checkout-v2",
+                "linkText": "Checkout v2"
+            },
+            {
+                "id": 3.11,
+                "link": "/profile",
+                "linkText": "Profile"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "linkText": "Danh mục",
+        "child": true,
+        "submenu": [
+            {
+                "id": 4.1,
+                "linkText": "Bé trai",
+                "child": true,
+                "submenu": [
+                    {
+                        "id": 4.11,
+                        "linkText": "Quần áo mùa hè",
+                        "child": true,
+                        "submenu": [
+                            {
+                                "id": 4.111,
+                                "link": "/be-trai/mua-he/ao-phong",
+                                "linkText": "Áo phông"
+                            },
+                            {
+                                "id": 4.112,
+                                "link": "/be-trai/mua-he/quan-short",
+                                "linkText": "Quần short"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4.12,
+                        "linkText": "Quần áo mùa đông",
+                        "child": true,
+                        "submenu": [
+                            {
+                                "id": 4.121,
+                                "link": "/be-trai/mua-dong/ao-khoac",
+                                "linkText": "Áo khoác"
+                            },
+                            {
+                                "id": 4.122,
+                                "link": "/be-trai/mua-dong/quan-dai",
+                                "linkText": "Quần dài"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 4.2,
+                "linkText": "Bé gái",
+                "child": true,
+                "submenu": [
+                    {
+                        "id": 4.21,
+                        "linkText": "Váy mùa hè",
+                        "child": true,
+                        "submenu": [
+                            {
+                                "id": 4.211,
+                                "link": "/be-gai/mua-he/vay-ngan",
+                                "linkText": "Váy ngắn"
+                            },
+                            {
+                                "id": 4.212,
+                                "link": "/be-gai/mua-he/ao-phong",
+                                "linkText": "Áo phông"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4.22,
+                        "linkText": "Quần áo mùa đông",
+                        "child": true,
+                        "submenu": [
+                            {
+                                "id": 4.221,
+                                "link": "/be-gai/mua-dong/ao-khoac",
+                                "linkText": "Áo khoác"
+                            },
+                            {
+                                "id": 4.222,
+                                "link": "/be-gai/mua-dong/quan-dai",
+                                "linkText": "Quần dài"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 4.3,
+                "linkText": "Phụ kiện",
+                "child": true,
+                "submenu": [
+                    {
+                        "id": 4.31,
+                        "link": "/phu-kien/mu",
+                        "linkText": "Mũ"
+                    },
+                    {
+                        "id": 4.32,
+                        "link": "/phu-kien/giay-dep",
+                        "linkText": "Giày dép"
+                    },
+                    {
+                        "id": 4.33,
+                        "link": "/phu-kien/balo",
+                        "linkText": "Balo"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "linkText": "Shop",
+        "child": true,
+        "submenu": [
+            {
+                "id": 5.1,
+                "linkText": "Shop Grid",
+                "child": true,
+                "submenu": [
+                    {
+                        "id": 5.11,
+                        "link": "/shop",
+                        "linkText": "Shop Grid"
+                    },
+                    {
+                        "id": 5.12,
+                        "link": "/shop-grid-full",
+                        "linkText": "Shop Grid Full"
+                    },
+                    {
+                        "id": 5.13,
+                        "link": "/shop-grid-left",
+                        "linkText": "Shop Left"
+                    },
+                    {
+                        "id": 5.14,
+                        "link": "/shop-grid-right",
+                        "linkText": "Shop Right"
+                    }
+                ]
+            },
+            {
+                "id": 5.2,
+                "linkText": "Shop List",
+                "child": true,
+                "submenu": [
+                    {
+                        "id": 5.21,
+                        "link": "/shop-list",
+                        "linkText": "Shop List"
+                    },
+                    {
+                        "id": 5.22,
+                        "link": "/shop-list-left",
+                        "linkText": "Shop List Left"
+                    },
+                    {
+                        "id": 5.23,
+                        "link": "/shop-list-right",
+                        "linkText": "Shop List Right"
+                    }
+                ]
+            },
+            {
+                "id": 5.3,
+                "linkText": "Product Details",
+                "child": true,
+                "submenu": [
+                    {
+                        "id": 5.31,
+                        "link": "/product-details/1",
+                        "linkText": "Product Details v1"
+                    },
+                    {
+                        "id": 5.32,
+                        "link": "/product-details-v2/1",
+                        "linkText": "Product Details v2"
+                    },
+                    {
+                        "id": 5.33,
+                        "link": "/product-details-v3/1",
+                        "linkText": "Product Details v3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "link": "/contact",
+        "linkText": "Contact Us"
+    }
+]

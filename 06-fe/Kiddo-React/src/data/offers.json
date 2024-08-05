@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "Pay with card and get perks",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "image": "",
+        "caption": ""
+    },
+    {
+        "id": 2,
+        "title": "Buy 2 and get 1 free TODAY!",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "image": "",
+        "caption": ""
+    },
+    {
+        "id": 3,
+        "title": "Exclusive Offers up to 80%",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "image": "",
+        "caption": ""
+    },
+    {
+        "id": 4,
+        "title": "NOTHING IS MORE IMPORTANT THAN YOUR FAMILY!",
+        "image": "assets/img/other/single_product_next.png",
+        "caption": "Preview",
+        "text": ""
+    }
+]

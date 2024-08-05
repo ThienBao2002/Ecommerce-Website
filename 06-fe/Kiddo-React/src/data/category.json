@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "title":"Small Kids",
+        "icon":"flaticon-bad-weather"
+    },
+    {
+        "id":2,
+        "title":"Special Kids",
+        "icon":"flaticon-pants"
+    },
+    {
+        "id":3,
+        "title":"Handicaped Kids",
+        "icon":"flaticon-clothes"
+    },
+    {
+        "id":4,
+        "title":"Technology",
+        "icon":"flaticon-diamond"
+    },
+    {
+        "id":5,
+        "title":"Online",
+        "icon":"flaticon-watch"
+    },
+    {
+        "id":6,
+        "title":"Gadgets",
+        "icon":"flaticon-underwear"
+    },
+    {
+        "id":7,
+        "title":"Plastic",
+        "icon":"flaticon-dress"
+    },
+    {
+        "id":8,
+        "title":"Remote",
+        "icon":"flaticon-tshirt"
+    }
+]

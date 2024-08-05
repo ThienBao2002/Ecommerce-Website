@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "image":"assets/img/banner/banner-res-3.jpg",
+        "title":"Swim wear"
+    },
+    {
+        "id":2,
+        "image":"assets/img/banner/banner-res-1.jpg",
+        "title":"Make-up"
+    },
+    {
+        "id":3,
+        "image":"assets/img/banner/banner-res-2.jpg",
+        "title":"Underwear"
+    },
+    {
+        "id":4,
+        "image":"assets/img/banner/banner-res-4.jpg",
+        "title":"Casual"
+    },
+    {
+        "id":5,
+        "image":"assets/img/banner/banner-res-5.jpg",
+        "title":"Accessories"
+    }
+]

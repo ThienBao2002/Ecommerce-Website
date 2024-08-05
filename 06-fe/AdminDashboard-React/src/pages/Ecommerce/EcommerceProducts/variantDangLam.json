@@ -1,0 +1,91 @@
+{
+  "images": [
+    {
+      "preview": "blob:http://localhost:3005/27679431-798a-4d56-ba4e-d74f875a6f88",
+      "formattedSize": "374.56 KB"
+    },
+    null,
+    null,
+    null,
+    null
+  ],
+  "variant1": [
+    {
+      "name": "cam",
+      "variant2": [
+        {
+          "name": "nhỏ",
+          "price": 123,
+          "stock": 123
+        },
+        {
+          "name": "to",
+          "price": 123,
+          "stock": 123
+        }
+      ]
+    },
+    {
+      "name": "vàng",
+      "variant2": [
+        {
+          "name": "nhỏ",
+          "price": null,
+          "stock": null
+        },
+        {
+          "name": "to",
+          "price": null,
+          "stock": null
+        }
+      ]
+    },
+    {
+      "name": "lục",
+      "variant2": [
+        {
+          "name": "nhỏ",
+          "price": null,
+          "stock": null
+        },
+        {
+          "name": "to",
+          "price": null,
+          "stock": null
+        }
+      ]
+    },
+    {
+      "name": "đỏ",
+      "variant2": [
+        {
+          "name": "nhỏ",
+          "price": null,
+          "stock": null
+        },
+        {
+          "name": "to",
+          "price": null,
+          "stock": null
+        }
+      ]
+    },
+    {
+      "name": "lam",
+      "variant2": [
+        {
+          "name": "nhỏ",
+          "price": null,
+          "stock": null
+        },
+        {
+          "name": "to",
+          "price": null,
+          "stock": null
+        }
+      ]
+    }
+  ],
+  "variantName1": "màu sắc",
+  "variantName2": "kích thước"
+}

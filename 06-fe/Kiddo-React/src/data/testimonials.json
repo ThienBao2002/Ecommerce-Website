@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "author": [
+            1
+        ],
+        "rating": 5,
+        "comment": "Play school, is an educational establishment or learning space offering early childhood education to children before they begin compulsory education at primary school It may be publicly or privately operated, and may be subsidized from public funds."
+    },
+    {
+        "id": 2,
+        "author": [
+            2
+        ],
+        "rating": 4,
+        "comment": "In an age when school was restricted to children who had already learned to read and write at home, there were many attempts to make school accessible to orphans or to the children of women who worked in factories."
+    },
+    {
+        "id": 3,
+        "author": [
+            3
+        ],
+        "rating": 3,
+        "comment": "In 1779, Johann Friedrich Oberlin and Louise Scheppler founded in Strassbourg an early establishment for caring for and educating pre-school children whose parents were absent during the day At about the same time, in 1780, similar infant establishments were established in Bavaria."
+    }
+]
